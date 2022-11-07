@@ -13,13 +13,16 @@
 
 ***cursiva y negrita***
 ### 3. codigo
-~~~
+~~~html
+<html>
 <head>
 <title>titulo<title/>
 <head/>
+<body>
 <h1>encabezado html<h1/>
 <p>parrafo<p/>
-
+</body>
+</html>
 ~~~
 ### 4. lista ordenada
 1. Elemento de lista 1
